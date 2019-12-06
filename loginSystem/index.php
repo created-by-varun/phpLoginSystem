@@ -9,7 +9,6 @@
                 echo '<p class="login-status">You are logged in</p>';
             } 
         ?>
-        
     </main>
 
 <?php
